@@ -20,7 +20,7 @@
 тренажера от code-basics и совершенствую знание 
 английского языка.
 
-<!-- ## Мои контакты -->
+## Мои контакты
 <!-- ## Connect with me -->
 <div align="left">
 
@@ -44,27 +44,14 @@
     <img src="https://img.shields.io/badge/artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" alt=artstation/>
   </a>
 
-
 </div>
+
 <br/>
 
-## My Skill Set
+## Мои навыки
 <table bgcolor="grey">
 <tr>
 <td valign="top" width="33%">
-
-## 💻 Github статистика:
-
-<table style="overflow: hidden;">
-  <tr style="overflow: hidden;">
-    <td width="50%">
-      <img width="98%" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anastasy-ya&layout=compact&theme=radical" />
-    </td>
-    <td width="50%">
-      <img width="98%" align="left"  src="http://github-readme-streak-stats.herokuapp.com?user=Anastasy-ya&theme=radical" alt="Github stats" />
-    </td>
-  </tr>
-</table>
 
 ### Frontend
   <div align="center">
@@ -115,7 +102,22 @@
 
 <br/>
 
-## 💻 Обучающие курсы:
+## Github статистика:
+
+<table style="overflow: hidden;">
+  <tr style="overflow: hidden;">
+    <td width="50%">
+      <img width="98%" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anastasy-ya&layout=compact&theme=radical" />
+    </td>
+    <td width="50%">
+      <img width="98%" align="left"  src="http://github-readme-streak-stats.herokuapp.com?user=Anastasy-ya&theme=radical" alt="Github stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Обучающие курсы:
 
   | Курсы                               |       Дата          |         Дополнительная информация по ссылке         |
   | ----------------------------------- | :-----------------: | --------------------------------------------------- |
