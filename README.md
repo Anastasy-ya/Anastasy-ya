@@ -125,7 +125,7 @@
   | ----------------------------------- | :-----------------: | --------------------------------------------------- |
   | НИЯУ МИФИ, графический дизайн(6 лет)|     2005 - 2011     |                                                     |
   |  YANDEX practicum-Веб разработчик   |  09/2022 - 09/2023  |             https://practicum.yandex.ru/            |
-  |    Школа 21-отборочный интенсив     |  01/2024 - 02/2024  |                https://21-school.ru/                |
+  |         интенсив  Школа 21          |  01/2024 - 02/2024  |                https://21-school.ru/                |
 
 
 <!-- [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Anastasy-ya&theme=dark)](https://github.com/Anastasy-ya/leetcode-stats) -->
