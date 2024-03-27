@@ -1,26 +1,19 @@
-*Read this in [English](README.eng.md)*
+*Read this in [Russian](README.rus.md)*
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Anastasia)](https://git.io/typing-svg)-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=hi,+I'm+Anastasia)](https://git.io/typing-svg)
 
-## Обо мне:
+## About me:
 
-Я - веб разработчик и senior-дизайнер (fullstack дизайнер).
+I am a web developer and senior designer (fullstack designer).
 
-Мне нравится видеть и понимать процесс разработки полностью. 
-Я понимаю обе сферы и дизайна и разработки глубже, 
-чем если бы специализировалась на чем-то одном.
+I enjoy seeing and understanding the development process completely.
+I understand both areas of design and development more deeply than if I specialized in just one thing.
 
-Через работу с совмещенным стеком я способна
-привнести цельное видение процессов, технических
-ограничений и возможностей, уменьшить количество
-шагов в разработке, проявить нестандартное мышление.
-Хочу, чтобы весь пользовательский опыт создавал цельный образ.
+Through working with a combined stack, I am able to bring a holistic vision of processes, technical limitations, and possibilities, reduce the number of steps in development, and demonstrate out-of-the-box thinking. I want the entire user experience to create a cohesive view.
 
-В данный момент изучаю TypeScrypt при помощи 
-тренажера от code-basics и совершенствую знание 
-английского языка.
+At the moment, I am studying TypeScript using the code-basics trainer and improving my knowledge of the English language.
 
 ## Мои контакты
 <!-- ## Connect with me -->
