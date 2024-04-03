@@ -15,8 +15,8 @@ Through working with a combined stack, I am able to bring a holistic vision of p
 
 At the moment, I am studying TypeScript using the code-basics trainer and improving my knowledge of the English language.
 
-## Мои контакты
-<!-- ## Connect with me -->
+## Connect with me
+
 <div align="left">
 
   <a href="https://github.com/Anastasy-ya" target="_blank">
@@ -43,8 +43,7 @@ At the moment, I am studying TypeScript using the code-basics trainer and improv
 
 <br/>
 
-## Мои навыки
-### Общие:
+## My skills
 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" title="Git" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a> 
@@ -98,7 +97,7 @@ At the moment, I am studying TypeScript using the code-basics trainer and improv
 </tr>
 </table>
 
-### Изучаю:
+### Сurrently studying:
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" title="TypeScript" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
@@ -106,7 +105,7 @@ At the moment, I am studying TypeScript using the code-basics trainer and improv
 
 <br/>
 
-## Github статистика:
+## Github stat:
 
 <table style="overflow: hidden;">
   <tr style="overflow: hidden;">
@@ -121,13 +120,13 @@ At the moment, I am studying TypeScript using the code-basics trainer and improv
 
 <br/>
 
-## Обучение:
+## Education:
 
-  | Учебное заведение                   |       Даты          |         Дополнительная информация по ссылке         |
+  |       Educational institution       |       Dates         |                  More information                   |
   | ----------------------------------- | :-----------------: | --------------------------------------------------- |
-  | НИЯУ МИФИ, графический дизайн(6 лет)|     2005 - 2011     |                                                     |
-  |  YANDEX practicum-Веб разработчик   |  09/2022 - 09/2023  |             https://practicum.yandex.ru/            |
-  |         интенсив  Школа 21          |  01/2024 - 02/2024  |                https://21-school.ru/                |
+  |   MIPHI, graphic design (6 years)   |     2005 - 2011     |                                                     |
+  |   YANDEX practicum, Web-developer   |  09/2022 - 09/2023  |             https://practicum.yandex.ru/            |
+  |         School 21, intensive        |  01/2024 - 02/2024  |                https://21-school.ru/                |
 
 
 <!-- [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Anastasy-ya&theme=dark)](https://github.com/Anastasy-ya/leetcode-stats) -->
