@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/linkedin-rgb(70,130,180)?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
   </a>
 
-  <a href="anastasy_ya.artstation.com" target="_blank">
+  <a href="https://anastasy_ya.artstation.com/" target="_blank">
     <img src="https://img.shields.io/badge/artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" alt=artstation/>
   </a>
 
