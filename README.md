@@ -1,8 +1,8 @@
 *Read this in [Russian](README.rus.md)*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=hi,+I'm+Anastasia)
+# Visit My Website 👉[frontandbeyond.com](https://frontandbeyond.com/)
 
-# frontandbeyond.com
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=hi,+I'm+Anastasia)
 
 ## About me:
 
