@@ -2,16 +2,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=hi,+I'm+Anastasia)
 
+frontandbeyond.com
+
 ## About me:
 
-I am a web developer and senior designer (fullstack designer).
-
-I enjoy seeing and understanding the development process completely.
-I understand both areas of design and development more deeply than if I specialized in just one thing.
-
-Through working with a combined stack, I am able to bring a holistic vision of processes, technical limitations, and possibilities, reduce the number of steps in development, and demonstrate out-of-the-box thinking. I want the entire user experience to create a cohesive view.
-
-At the moment, I am studying TypeScript using the code-basics trainer and improving my knowledge of the English language.
+Frontend Developer with 3+ years of experience in developing interactive web applications, 3D, and AR / VR.
+Combines a strong design background (5+ years) with deep technical expertise in graphics and visual effects.
 
 ## Connect with me
 
@@ -40,7 +36,7 @@ At the moment, I am studying TypeScript using the code-basics trainer and improv
 </div>
 
 <br/>
-
+<!--
 ## My skills
 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" title="Git" /></a>
@@ -101,15 +97,15 @@ At the moment, I am studying TypeScript using the code-basics trainer and improv
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" title="NextJS" /></a>
 
-<br/>
+<br/>-->
 
 ## Github stat:
 
 <table style="overflow: hidden;">
   <tr style="overflow: hidden;">
-    <td width="50%">
+    <!--<td width="50%">
       <img width="98%" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anastasy-ya&layout=compact&theme=radical" />
-    </td>
+    </td>-->
     <td width="50%">
       <img width="98%" align="left"  src="http://github-readme-streak-stats.herokuapp.com?user=Anastasy-ya&theme=radical" alt="Github stats" />
     </td>
